@@ -1,24 +1,29 @@
 # UNDETEK xhub — Secours de France RP
 
-Free standalone script. No hub. No key. Classifia-V2-style vehicle UI.
+Free standalone script · open source · non-obfusqué. No hub. No key.
+Classifia-style vehicle UI · PlaceId `8392374718` · **v1.4.9**
 
 [-- UNDETEK xhub Supported Games --]
 [+] Secours de France RP (PlaceId 8392374718)
 
 [-- Features --]
-[+] Propulsion + Boost + Grip (AC6 DriveSeat)
+[+] Car Speed (ex-Propulsion) + Motor mode (Smooth / Normal / Sport)
+[+] Steer assist
 [+] Fly Car + Slow Fly
-[+] Couleur carrosserie / Editable (client) + EditType urgence
-[+] Car_Function: Lock / Unlock / Repair / Fuel / Sirène
-[+] All Car liste (Data_Function) — spawn CarMenu via sniffer
-[+] Hélico Buy/Spawn (Helicopter_Spawn)
-[+] FPS Pack
-[+] Dev remote sniffer (log only)
-[+] Rayfield UI · 100% standalone
+[+] Repair / Fuel / Bring voiture
+[+] Couleur carrosserie + Rainbow (client)
+[+] ESP + Aimbot (FOV) + Silent assist LMB
+[+] Cuff aura
+[+] FOV caméra
+[+] Beauty pack (GFX soft) · FPS Pack (manuel)
+[+] AC Probe optionnel (Info, OFF par défaut)
+[+] UI standalone · RightShift · UNLOAD
 
 [-- Honest limits --]
+[-] Lock / Unlock retirés
+[-] Fly perso retiré (instable)
 [-] Pas d'argent max silent (serveur autoritaire)
-[-] Pas d'aura combat / lag remotes trouvés en static
+[-] Hélico / All Car : selon remotes disponibles
 
 [-- Suggested Executors --]
 PC: Xeno, Volt, Solara
@@ -36,6 +41,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/jvd11665-dot/UNDETEK-
 ```
 
 [-- Tags --]
-secours de france, secours france rp, classifia, vehicle, propulsion, undetek, xhub, roblox script
+secours de france, secours france rp, classifia, vehicle, car speed, undetek, xhub, roblox script
 
 *UNDETEK xhub — free scripts.*
