@@ -2,7 +2,7 @@
   UNDETEK — open source / non-obfusqué
   Secours de France RP + AC Probe (optionnel)
   PlaceId 8392374718 · v1.4.9
-  AC-aware: pas de BodyVelocity / BodyForce / BodyAngularVelocity (ban SF AC)
+  AC-aware: propulsion client soft (pas de Body* legacy)
   v1.4.9: Improve-loop — Car Speed look horizontal · Beauty↔FPS restore ·
     steer quasi-arret · flyConn sans leak track · remote miss-cache ·
     newcclosure fallback AC · Silent vs Aimbot gate · UI Info allégée
@@ -10,7 +10,7 @@
   v1.4.7: Lock/Unlock retirés · FOV caméra · Beauty pack (GFX soft) à l'exec
   v1.4.6: Propulsion → Car Speed · Motor mode (Smooth/Normal/Sport) · Accélération UI retirée
   v1.4.5: AC probe intégré (Info > AC Probe, OFF par défaut) — un seul exec
-  v1.4.4: Fly perso removed (AC ban) — fly voiture only (soft-cap).
+  v1.4.4: Fly perso retiré (instable) — fly voiture only (soft-cap).
   Combat: ESP + Aimbot damp+FOV · Silent LMB assist · Cuff aura (Handcuff_Function)
   Vehicule: Car Speed + Motor mode + steer · fly car CFrame/ALV · Repair/Fuel/Bring
   Boot: UI + mild renderBoost + Beauty pack (pas de wipe / FPS Pack = manuel).
