@@ -1,6 +1,6 @@
 # UNDETEK xhub — Secours de France RP
 
-Free standalone script · open source · non-obfusqué. No hub. No key.
+Free standalone script · build protégé (obfusqué). No hub. No key.
 Classifia-style vehicle UI · PlaceId `8392374718` · **v1.4.9**
 
 [-- UNDETEK xhub Supported Games --]
